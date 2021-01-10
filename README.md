@@ -1,1 +1,1 @@
-# AI_Gesture_Recognition by YOLOV4
+Gesture Recognition with YOLOV4
